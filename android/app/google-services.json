@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584097691298",
+    "project_id": "pakwanderer-621b6",
+    "storage_bucket": "pakwanderer-621b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584097691298:android:c7ec3ffb3120186d0089fb",
+        "android_client_info": {
+          "package_name": "com.example.pakwanderer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANg0q197wzXdC3XsoNN9V6LHd6g_OMjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
